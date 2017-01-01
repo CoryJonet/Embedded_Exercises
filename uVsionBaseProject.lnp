@@ -1,0 +1,4 @@
+--cpu Cortex-M4 "main.o" "startup_rvmdk.o" --library_type=microlib --strict --scatter "ece353.sct" 
+--entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\uVsionBaseProject.map" -o uVsionBaseProject.axf

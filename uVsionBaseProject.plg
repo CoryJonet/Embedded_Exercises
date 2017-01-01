@@ -1,0 +1,268 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+I:\ECE 353\ARM_Assembly_Basics\src\uVsionBaseProject.uvproj
+Project File Date:  01/30/2014
+
+<h2>Output:</h2>
+Build target 'base'
+assembling main.s...
+main.s(6): error: A1163E: Unknown opcode BYTE , expecting opcode or Macro
+main.s(7): error: A1163E: Unknown opcode HALF_WORD , expecting opcode or Macro
+main.s(8): error: A1163E: Unknown opcode WORD , expecting opcode or Macro
+main.s(13): error: A1152E: Unexpected operator
+main.s(14): error: A1152E: Unexpected operator
+main.s(15): error: A1152E: Unexpected operator
+main.s(16): error: A1152E: Unexpected operator
+main.s(17): error: A1152E: Unexpected operator
+main.s(18): error: A1152E: Unexpected operator
+main.s(19): error: A1152E: Unexpected operator
+main.s(20): error: A1152E: Unexpected operator
+main.s(71): error: A1516E: Bad symbol 'HALF_WORD', not defined or external
+main.s(72): error: A1516E: Bad symbol 'HALF_WORD', not defined or external
+assembling startup_rvmdk.S...
+Target not created
+Build target 'base'
+assembling main.s...
+main.s(13): error: A1152E: Unexpected operator
+main.s(14): error: A1152E: Unexpected operator
+main.s(15): error: A1152E: Unexpected operator
+main.s(16): error: A1152E: Unexpected operator
+main.s(17): error: A1152E: Unexpected operator
+main.s(18): error: A1152E: Unexpected operator
+main.s(19): error: A1152E: Unexpected operator
+main.s(20): error: A1152E: Unexpected operator
+Target not created
+Build target 'base'
+assembling main.s...
+main.s(41): error: A1516E: Bad symbol 'HALF', not defined or external
+Target not created
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=744 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=744 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=744 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=744 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0x56
+linking...
+Program Size: Code=748 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(43): error: A1647E: Bad register name symbol, expected Integer register
+main.s(46): error: A1647E: Bad register name symbol, expected Integer register
+Target not created
+Build target 'base'
+assembling main.s...
+main.s(43): error: A1647E: Bad register name symbol, expected Integer register
+main.s(46): error: A1647E: Bad register name symbol, expected Integer register
+Target not created
+Build target 'base'
+assembling main.s...
+main.s(37): error: A1114E: Expected register relative expression
+Target not created
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=748 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(44): warning: A1865W: '#' not seen before constant expression
+main.s(44): error: A1137E: Unexpected characters at end of line
+main.s(47): warning: A1865W: '#' not seen before constant expression
+main.s(47): error: A1137E: Unexpected characters at end of line
+main.s(50): warning: A1865W: '#' not seen before constant expression
+main.s(50): error: A1137E: Unexpected characters at end of line
+Target not created
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0x5a
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(48): warning: A1865W: '#' not seen before constant expression
+main.s(48): error: A1137E: Unexpected characters at end of line
+Target not created
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(47): warning: A1865W: '#' not seen before constant expression
+main.s(47): error: A1137E: Unexpected characters at end of line
+Target not created
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0x5a
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Load "I:\\ECE 353\\ARM_Assembly_Basics\\src\\uVsionBaseProject.AXF" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Connection failed!, error code=&d
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=748 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=748 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0x56
+linking...
+Program Size: Code=748 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0x56
+linking...
+Program Size: Code=748 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=740 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(44): error: A1163E: Unknown opcode LDRh , expecting opcode or Macro
+Target not created
+Build target 'base'
+assembling main.s...
+main.s(70): warning: A1581W: Added 2 bytes of padding at address 0x4a
+linking...
+Program Size: Code=736 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=728 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=760 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+linking...
+Program Size: Code=760 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(65): error: A1647E: Bad register name symbol, expected Integer register
+Target not created
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=760 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(69): warning: A1581W: Added 2 bytes of padding at address 0x5a
+linking...
+Program Size: Code=752 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(72): warning: A1581W: Added 2 bytes of padding at address 0x66
+linking...
+Program Size: Code=764 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+assembling main.s...
+main.s - 0 Error(s), 0 Warning(s).
+Build target 'base'
+linking...
+Program Size: Code=760 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=756 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=756 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(71): warning: A1581W: Added 2 bytes of padding at address 0x62
+linking...
+Program Size: Code=760 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 1 Warning(s).
+Build target 'base'
+assembling main.s...
+main.s(39): error: A1114E: Expected register relative expression
+Target not created
+Build target 'base'
+assembling main.s...
+linking...
+Program Size: Code=760 RO-data=0 RW-data=32 ZI-data=1024  
+"uVsionBaseProject.axf" - 0 Error(s), 0 Warning(s).
