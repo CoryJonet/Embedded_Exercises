@@ -1,0 +1,8 @@
+Dependencies for Project 'ece353_base_project', Target 'base_project': (DO NOT MODIFY !)
+F (.\Startup.s)(0x524DDD15)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Luminary --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main.c)(0x533484A7)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Luminary -o "main.o" --omf_browse "main.crf" --depend "main.d")
+F (.\boardUtil.c)(0x533315EF)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Luminary -o "boardutil.o" --omf_browse "boardutil.crf" --depend "boardutil.d")
+F (.\lib\pll.lib)(0x520BDCE8)()
+F (.\lib\uart.lib)(0x520BE97A)()
+F (.\lib\gpio.lib)(0x520BDD93)()
+F (.\lib\adc.lib)(0x529EA4AF)()
