@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Skydrive-Wisc\SkyDrive\ECE353\svn\trunk\inclass\2014-spring\Week06-GPIO-PushButtons\Dist\src\ece353_base_project.uvproj
+Project File Date:  02/27/2014
+
+<h2>Output:</h2>
+Build target 'base_project'
+assembling Startup.s...
+compiling main.c...
+main.c(55): warning:  #550-D: variable "delay" was set but never used
+compiling initBoard.c...
+linking...
+Program Size: Code=2144 RO-data=32 RW-data=88 ZI-data=4096  
+"ece353_base_project.axf" - 0 Error(s), 1 Warning(s).
+Clean started: Project: 'ece353_base_project'
+   deleting intermediate output files for target 'base_project'
