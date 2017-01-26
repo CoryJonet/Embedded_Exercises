@@ -1,0 +1,1 @@
+--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Luminary --list "sumPositiveValues.lst" --xref -o "sumPositiveValues.o" --depend "sumPositiveValues.d" "sumPositiveValues.s"
