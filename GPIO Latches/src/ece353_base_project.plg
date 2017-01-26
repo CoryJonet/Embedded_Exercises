@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Skydrive-Wisc\SkyDrive\ECE353\svn\trunk\inclass\2014-spring\Week07-GPIO-Latches\Dist\src\ece353_base_project.uvproj
+Project File Date:  03/06/2014
+
+<h2>Output:</h2>
+Build target 'base_project'
+assembling Startup.s...
+compiling main.c...
+compiling initBoard.c...
+compiling boardUtil.c...
+linking...
+Program Size: Code=1832 RO-data=32 RW-data=148 ZI-data=4116  
+"ece353_base_project.axf" - 0 Error(s), 0 Warning(s).
+Clean started: Project: 'ece353_base_project'
+   deleting intermediate output files for target 'base_project'
